@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://replace-this-with-your-hugo-site.com/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/pricing/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+	&lt;meta charset=&#34;utf-8&#34;&gt;
+	&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+	&lt;title&gt;Content Delivery for High Bandwidth Services | Bandwidth Hog&lt;/title&gt;
+	&lt;link media=&#34;all&#34; rel=&#34;stylesheet&#34; href=&#34;../css/all.css&#34;&gt;
+	&lt;link rel=&#34;stylesheet&#34; href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css&#34;&gt;
+	&lt;meta name=&#34;description&#34; content=&#34;Content Delivery for High Bandwidth Services.  Starting at just 1¢ a gigabyte with no contracts.&#34;/&gt;
+	&lt;meta name=&#34;theme-color&#34; content=&#34;#000000&#34;&gt;
+	&lt;meta property=&#34;og:locale&#34; content=&#34;en_US&#34; /&gt;
+	&lt;meta property=&#34;og:type&#34; content=&#34;website&#34; /&gt;
+	&lt;meta property=&#34;og:title&#34; content=&#34;Content Delivery for High Bandwidth Services | Bandwidth Hog&#34; /&gt;
+	&lt;meta property=&#34;og:description&#34; content=&#34;Our software stack consists of free and open source software. In the spirit of FOSS, we believe in giving back. Here is a list of the projects we sponsor.&#34; /&gt;
+	&lt;meta property=&#34;og:url&#34; content=&#34;https://www.bandwidthhog.com/&#34; /&gt;
+	&lt;meta name=&#34;twitter:card&#34; content=&#34;summary&#34;/&gt;
+	&lt;meta name=&#34;twitter:description&#34; content=&#34;Content Delivery for High Bandwidth Services | @Bandwidth_Hog&#34;/&gt;
+	&lt;meta name=&#34;twitter:title&#34; content=&#34;Content Delivery for High Bandwidth Services | @Bandwidth_Hog&#34;/&gt;
+	&lt;meta name=&#34;twitter:site&#34; content=&#34;@bandwidth_hog&#34;/&gt;
+	&lt;meta name=&#34;twitter:creator&#34; content=&#34;@bandwidth_hog&#34;/&gt;
+	&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;57x57&#34; href=&#34;https://www.bandwidthhog.com/images/apple-touch-icon-57x57.png&#34; /&gt;
+	&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;114x114&#34; href=&#34;https://www.bandwidthhog.com/images/apple-touch-icon-114x114.png&#34; /&gt;
+	&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;72x72&#34; href=&#34;https://www.bandwidthhog.com/images/apple-touch-icon-72x72.png&#34; /&gt;
+	&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;144x144&#34; href=&#34;https://www.bandwidthhog.com/images/apple-touch-icon-144x144.png&#34; /&gt;
+	&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;60x60&#34; href=&#34;https://www.bandwidthhog.com/images/apple-touch-icon-60x60.png&#34; /&gt;
+	&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;120x120&#34; href=&#34;https://www.bandwidthhog.com/images/apple-touch-icon-120x120.png&#34; /&gt;
+	&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;76x76&#34; href=&#34;https://www.bandwidthhog.com/images/apple-touch-icon-76x76.png&#34; /&gt;
+	&lt;link rel=&#34;apple-touch-icon-precomposed&#34; sizes=&#34;152x152&#34; href=&#34;https://www.bandwidthhog.com/images/apple-touch-icon-152x152.png&#34; /&gt;
+	&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;https://www.bandwidthhog.com/images/favicon-196x196.png&#34; sizes=&#34;196x196&#34; /&gt;
+	&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;https://www.bandwidthhog.com/images/favicon-96x96.png&#34; sizes=&#34;96x96&#34; /&gt;
+	&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;https://www.bandwidthhog.com/images/favicon-32x32.png&#34; sizes=&#34;32x32&#34; /&gt;
+	&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;https://www.bandwidthhog.com/images/favicon-16x16.png&#34; sizes=&#34;16x16&#34; /&gt;
+	&lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;https://www.bandwidthhog.com/images/favicon-128.png&#34; sizes=&#34;128x128&#34; /&gt;
+	&lt;meta name=&#34;application-name&#34; content=&#34;Bandwidth Hog&#34;/&gt;
+	&lt;meta name=&#34;msapplication-TileColor&#34; content=&#34;#000000&#34; /&gt;
+	&lt;meta name=&#34;msapplication-TileImage&#34; content=&#34;https://www.bandwidthhog.com/images/mstile-144x144.png&#34; /&gt;
+	&lt;meta name=&#34;msapplication-square70x70logo&#34; content=&#34;https://www.bandwidthhog.com/images/mstile-70x70.png&#34; /&gt;
+	&lt;meta name=&#34;msapplication-square150x150logo&#34; content=&#34;https://www.bandwidthhog.com/images/mstile-150x150.png&#34; /&gt;
+	&lt;meta name=&#34;msapplication-wide310x150logo&#34; content=&#34;https://www.bandwidthhog.com/images/mstile-310x150.png&#34; /&gt;
+	&lt;meta name=&#34;msapplication-square310x310logo&#34; content=&#34;https://www.bandwidthhog.com/images/mstile-310x310.png&#34; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&#34;pricing&#34;&gt;
+		&lt;div id=&#34;wrapper&#34;&gt;
+			&lt;header id=&#34;header&#34;&gt;
+				&lt;div class=&#34;area&#34;&gt;
+					&lt;div class=&#34;logo&#34;&gt;&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/&#34;&gt;&lt;img src=&#34;../images/logo-white.png&#34; alt=&#34;Bandwidth Hog&#34;&gt;&lt;/a&gt;&lt;/div&gt;
+					&lt;div class=&#34;pricing&#34;&gt;&lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pricing/&#34;&gt;Pricing&lt;/a&gt;
+					&lt;div class=&#34;login&#34;&gt;&lt;a href=&#34;https://cp.bandwidthhog.com/&#34; target=&#34;_blank&#34;&gt;Login&lt;/a&gt;
+					&lt;div class=&#34;by&#34;&gt;Powered by &lt;a href=&#34;https://www.maxcdn.com/?ref=bwhog&#34; target=&#34;_blank&#34;&gt;MaxCDN&lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/header&gt;
+			&lt;main id=&#34;main&#34; role=&#34;main&#34;&gt;
+				&lt;div class=&#34;visual&#34;&gt;
+					&lt;div class=&#34;bg-stretch&#34;&gt;
+						&lt;img src=&#34;../images/header.jpg&#34; alt=&#34;image description&#34;&gt;
+					&lt;/div&gt;
+					&lt;div class=&#34;text-holder&#34;&gt;
+						&lt;div class=&#34;area&#34;&gt;
+							&lt;h1&gt;&lt;span&gt;Unheard of CDN Pricing&lt;/span&gt;&lt;/h1&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;text-wrap&#34;&gt;
+					&lt;div class=&#34;area&#34;&gt;
+						&lt;div class=&#34;pricetable-switch&#34;&gt;
+							&lt;span&gt;Monthly&lt;/span&gt;
+							&lt;div class=&#34;onoffswitch&#34;&gt;
+								&lt;input type=&#34;checkbox&#34; name=&#34;onoffswitch&#34; class=&#34;onoffswitch-checkbox&#34; id=&#34;myonoffswitch&#34; data-role=&#34;myonoffswitch&#34;&gt;
+								&lt;label class=&#34;onoffswitch-label&#34; for=&#34;myonoffswitch&#34;&gt;&lt;/label&gt;
+							&lt;/div&gt;
+							&lt;span&gt;Annual&lt;/span&gt;
+						&lt;/div&gt;
+						&lt;div class=&#34;pricingtable&#34;&gt;
+							&lt;div class=&#34;pcolumn pcolumn-first&#34;&gt;
+								&lt;div class=&#34;monthly price&#34;&gt;
+									&lt;span class=&#34;dollar&#34;&gt;$&lt;/span&gt;
+									&lt;span class=&#34;amount&#34;&gt;249&lt;/span&gt;
+									&lt;span class=&#34;month&#34;&gt;/mo&lt;/span&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;annual price&#34;&gt;
+									&lt;span class=&#34;dollar&#34;&gt;$&lt;/span&gt;
+									&lt;span class=&#34;amount&#34;&gt;2,490&lt;/span&gt;
+									&lt;span class=&#34;month&#34;&gt;/yr&lt;/span&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;info&#34;&gt;$249/mo Platform Fee&lt;/div&gt;
+								&lt;div class=&#34;monthly below-info&#34;&gt;
+									&lt;span&gt;0&lt;/span&gt; Bandwidth/mo/included&lt;br /&gt;
+									&lt;span&gt;1&amp;cent;/GB&lt;/span&gt; Flat Rate&lt;br /&gt;
+									&lt;span&gt;100&lt;/span&gt; CNAMEs&lt;br /&gt;
+									&lt;span&gt;Free&lt;/span&gt; HTTP Requests
+								&lt;/div&gt;
+								&lt;div class=&#34;annual below-info&#34;&gt;
+									&lt;span&gt;0&lt;/span&gt; Bandwidth/mo/included&lt;br /&gt;
+									&lt;span&gt;1&amp;cent;/GB&lt;/span&gt; Flat Rate&lt;br /&gt;
+									&lt;span&gt;100&lt;/span&gt; CNAMEs&lt;br /&gt;
+									&lt;span&gt;Free&lt;/span&gt; HTTP Requests
+								&lt;/div&gt;
+								&lt;div class=&#34;monthly pbutton&#34;&gt;
+									&lt;a href=&#34;https://signup.bandwidthhog.com/step1?plan_id=1&#34; class=&#34;button orange iframe&#34; style=&#34;margin:15px 0;&#34;&gt;Sign Up&lt;/a&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;annual pbutton&#34;&gt;
+									&lt;a href=&#34;https://signup.bandwidthhog.com/step1?plan_id=10&amp;pattern=annual&#34; class=&#34;button orange iframe&#34; style=&#34;margin:15px 0;&#34;&gt;Sign Up&lt;/a&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+							&lt;div class=&#34;pcolumn&#34;&gt;
+								&lt;div class=&#34;monthly price&#34;&gt;
+									&lt;span class=&#34;dollar&#34;&gt;$&lt;/span&gt;
+									&lt;span class=&#34;amount&#34;&gt;989&lt;/span&gt;
+									&lt;span class=&#34;month&#34;&gt;/mo&lt;/span&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;annual price&#34;&gt;
+									&lt;span class=&#34;dollar&#34;&gt;$&lt;/span&gt;
+									&lt;span class=&#34;amount&#34;&gt;10,879&lt;/span&gt;
+									&lt;span class=&#34;month&#34;&gt;/yr&lt;/span&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;info&#34;&gt;&lt;span style=&#34;text-decoration: line-through;&#34;&gt;$249/mo&lt;/span&gt; Platform Fee&lt;/div&gt;
+								&lt;div class=&#34;monthly below-info&#34;&gt;
+									&lt;span&gt;100TB&lt;/span&gt; Bandwidth/mo/included&lt;br /&gt;
+									&lt;span&gt;1&amp;cent;/GB&lt;/span&gt; Overage&lt;br /&gt;
+									&lt;span&gt;100&lt;/span&gt; CNAMEs&lt;br /&gt;
+									&lt;span&gt;Free&lt;/span&gt; HTTP Requests
+								&lt;/div&gt;
+								&lt;div class=&#34;annual below-info&#34;&gt;
+									&lt;span&gt;100TB&lt;/span&gt; Bandwidth/mo/included&lt;br /&gt;
+									&lt;span&gt;1&amp;cent;/GB&lt;/span&gt; Overage&lt;br /&gt;
+									&lt;span&gt;100&lt;/span&gt; CNAMEs&lt;br /&gt;
+									&lt;span&gt;Free&lt;/span&gt; HTTP Requests
+								&lt;/div&gt;
+								&lt;div class=&#34;monthly pbutton&#34;&gt;
+									&lt;a href=&#34;https://signup.bandwidthhog.com/step1?plan_id=7&#34; class=&#34;button white iframe&#34; style=&#34;margin:15px 0;&#34;&gt;Sign Up&lt;/a&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;annual pbutton&#34;&gt;
+									&lt;a href=&#34;https://signup.bandwidthhog.com/step1?plan_id=11&amp;pattern=annual&#34; class=&#34;button white iframe&#34; style=&#34;margin:15px 0;&#34;&gt;Sign Up&lt;/a&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+							&lt;div class=&#34;pcolumn&#34;&gt;
+								&lt;div class=&#34;monthly price&#34;&gt;
+									&lt;span class=&#34;dollar&#34;&gt;$&lt;/span&gt;
+									&lt;span class=&#34;amount&#34;&gt;7,999&lt;/span&gt;
+									&lt;span class=&#34;month&#34;&gt;/mo&lt;/span&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;annual price&#34;&gt;
+									&lt;span class=&#34;dollar&#34;&gt;$&lt;/span&gt;
+									&lt;span class=&#34;amount&#34;&gt;84,000&lt;/span&gt;
+									&lt;span class=&#34;month&#34;&gt;/yr&lt;/span&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;info&#34;&gt;&lt;span style=&#34;text-decoration: line-through;&#34;&gt;$249/mo&lt;/span&gt; Platform Fee&lt;/div&gt;
+								&lt;div class=&#34;monthly below-info&#34;&gt;
+									&lt;span&gt;1PB&lt;/span&gt; Bandwidth/mo/included&lt;br /&gt;
+									&lt;span&gt;0.7&amp;cent;/GB&lt;/span&gt; Overage&lt;br /&gt;
+									&lt;span&gt;100&lt;/span&gt; CNAMEs&lt;br /&gt;
+									&lt;span&gt;Free&lt;/span&gt; HTTP Requests
+								&lt;/div&gt;
+								&lt;div class=&#34;annual below-info&#34;&gt;
+									&lt;span&gt;1PB&lt;/span&gt; Bandwidth/mo/included&lt;br /&gt;
+									&lt;span&gt;0.7&amp;cent;/GB&lt;/span&gt; Overage&lt;br /&gt;
+									&lt;span&gt;100&lt;/span&gt; CNAMEs&lt;br /&gt;
+									&lt;span&gt;Free&lt;/span&gt; HTTP Requests
+								&lt;/div&gt;
+								&lt;div class=&#34;monthly pbutton&#34;&gt;
+									&lt;a href=&#34;https://signup.bandwidthhog.com/step1?plan_id=8&#34; class=&#34;button white iframe&#34; style=&#34;margin:15px 0;&#34;&gt;Sign Up&lt;/a&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;annual pbutton&#34;&gt;
+									&lt;a href=&#34;https://signup.bandwidthhog.com/step1?plan_id=12&amp;pattern=annual&#34; class=&#34;button white iframe&#34; style=&#34;margin:15px 0;&#34;&gt;Sign Up&lt;/a&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+							&lt;div class=&#34;pcolumn&#34;&gt;
+							&lt;div class=&#34;monthly price&#34;&gt;
+									&lt;span class=&#34;dollar&#34;&gt;$&lt;/span&gt;
+									&lt;span class=&#34;amount&#34;&gt;24,980&lt;/span&gt;
+									&lt;span class=&#34;month&#34;&gt;/mo&lt;/span&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;annual price&#34;&gt;
+									&lt;span class=&#34;amount&#34;&gt;Seriously?&lt;/span&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;info&#34;&gt;&lt;span style=&#34;text-decoration: line-through;&#34;&gt;$249/mo&lt;/span&gt; Platform Fee&lt;/div&gt;
+								&lt;div class=&#34;monthly below-info&#34;&gt;
+									&lt;span&gt;5PB&lt;/span&gt; Bandwidth/mo/included&lt;br /&gt;
+									&lt;span&gt;0.5&amp;cent;/GB&lt;/span&gt; Overage&lt;br /&gt;
+									&lt;span&gt;100&lt;/span&gt; CNAMEs&lt;br /&gt;
+									&lt;span&gt;Free&lt;/span&gt; HTTP Requests
+								&lt;/div&gt;
+								&lt;div class=&#34;annual below-info&#34;&gt;
+									&lt;span&gt;5PB&lt;/span&gt; Bandwidth/mo/included&lt;br /&gt;
+									&lt;span&gt;0.5&amp;cent;/GB&lt;/span&gt; Overage&lt;br /&gt;
+									&lt;span&gt;100&lt;/span&gt; CNAMEs&lt;br /&gt;
+									&lt;span&gt;Free&lt;/span&gt; HTTP Requests
+								&lt;/div&gt;
+								&lt;div class=&#34;monthly pbutton&#34;&gt;
+									&lt;a href=&#34;https://signup.bandwidthhog.com/step1?plan_id=9&#34; class=&#34;button white iframe&#34; style=&#34;margin:15px 0;&#34;&gt;Sign Up&lt;/a&gt;
+								&lt;/div&gt;
+								&lt;div class=&#34;annual pbutton&#34;&gt;
+									&lt;a href=&#34;#form-popup-24980&#34; class=&#34;open-popup-link button white&#34; style=&#34;margin:15px 0;&#34;&gt;Contact Us&lt;/a&gt;
+								&lt;/div&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+					&lt;div class=&#34;area&#34;&gt;
+					&lt;div class=&#34;section below-table&#34;&gt;
+						&lt;div class=&#34;text-area&#34;&gt;
+							&lt;h2 class=&#34;section-title&#34;&gt;How is this so affordable?&lt;/h2&gt;
+							Bandwidth Hog is a service by MaxCDN. We don&#39;t do everything. We only do one thing well. Content Delivery at very low cost from 3 locations in Europe and 3 locations in the US. MaxCDN is the sports car and Bandwidth Hog is the delivery truck.
+						&lt;/div&gt;
+						&lt;div class=&#34;text-area&#34; style=&#34;vertical-align: top;&#34;&gt;
+							&lt;h2 class=&#34;section-title&#34;&gt;Is Bandwidth Hog reliable?&lt;/h2&gt;
+							Yes! Bandwidth Hog is built on the MaxCDN platform supporting over 15,000 customers and is integrated in over 6 million websites. We offer the same SLA as all MaxCDN customers. You can read the SLA policy &lt;a href=&#34;https://www.maxcdn.com/legal/&#34; target=&#34;_blank&#34; style=&#34;color: #393939; text-decoration: underline;&#34;&gt;here&lt;/a&gt;.
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;section style3 pricing-content&#34;&gt;
+					&lt;div class=&#34;area&#34;&gt;
+						&lt;div class=&#34;image paper&#34;&gt;&lt;img src=&#34;../images/paper.png&#34; alt=&#34;image description&#34;&gt;&lt;/div&gt;
+						&lt;div class=&#34;text-area&#34;&gt;
+							&lt;h2 class=&#34;section-title&#34;&gt;No commitments&lt;/h2&gt;
+							&lt;p&gt;To get such unbelievable pricing, you usually have to commit to Petabytes per month and sign a multi year contract. For example this makes it really hard for Game Developers that do not know how their traffic will shape up. Say hello to the HOG! Great prices without commitments.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;section style4 pricing-content&#34;&gt;
+					&lt;div class=&#34;area&#34;&gt;
+						&lt;div class=&#34;image tech&#34;&gt;
+							&lt;img src=&#34;../images/tech.png&#34; alt=&#34;image description&#34;&gt;
+						&lt;/div&gt;
+						&lt;div class=&#34;text-area&#34;&gt;
+							&lt;h2 class=&#34;section-title&#34;&gt;Support by default&lt;/h2&gt;
+							&lt;p&gt;Large, Medium or Small files delivered reliably. We offer chat and email support 24/7/365 that is responsive and highly rated. However, if you need priority support or access to a support engineer, consider a &lt;a href=&#34;https://www.maxcdn.com/?ref=bwhog&#34; style=&#34;text-decoration: underline;&#34; &gt;MaxCDN&lt;/a&gt; solution.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;section faq&#34;&gt;
+					&lt;div class=&#34;area&#34;&gt;
+						&lt;h1&gt;Service &amp;amp; Billing Made Simple&lt;/h1&gt;
+						&lt;div class=&#34;faq-column first&#34;&gt;
+							&lt;h4&gt;Service&lt;/h4&gt;
+							&lt;h5&gt;File size limit&lt;/h5&gt;
+							&lt;p&gt;There is no file size limit. Files that are more than 1GB &lt;b&gt;might&lt;/b&gt; require a support engineer to adjust some settings. Good news is that the MaxCDN Speed Team is proactive and will reach out if there is an issue pulling larger files from your origin.&lt;/p&gt;
+							&lt;h5&gt;Range requests&lt;/h5&gt;
+							&lt;p&gt;We support range request as a free feature add-on. The setting can be enabled by a support engineer.&lt;/p&gt;
+
+							&lt;h5&gt;Video&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;We support HTML5/HTTP psuedo-streaming for the following file types: mp4, m4a, m4v, mov, flv.&lt;/li&gt;
+							&lt;li&gt;We &lt;b&gt;DO NOT&lt;/b&gt; support the following file types: swf, wmv, mpg, 3gp, nsv, asf, xap.&lt;/li&gt;
+							&lt;li&gt;We &lt;b&gt;DO NOT&lt;/b&gt; support the following protocols: RTMP, RTSP, HTTP Live, HDS, DASH, Shoutcast, BitTorrent Live Streaming, Microsoft Smooth Streaming.&lt;/li&gt;
+							&lt;/ul&gt;
+							&lt;h5&gt;FTP for storage&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;We do not have FTP support. This platform only supports Origin Pull zones.&lt;/li&gt;
+							&lt;li&gt;Our servers pull content from your servers via HTTP(s).&lt;/li&gt;
+							&lt;li&gt;We &lt;b&gt;DO NOT&lt;/b&gt; support any of the following protocols: FTP, SFTP, LFTP, SSH, RSYNC, SCP or Git.&lt;/li&gt;
+							&lt;li&gt;If you need storage we suggest using AWS S3.&lt;/li&gt;
+							&lt;li&gt;If you require storage contact &lt;a href=&#34;mailto:sales@maxcdn.com&#34;&gt;sales@maxcdn.com&lt;/a&gt;.&lt;/li&gt;
+							&lt;/ul&gt;
+							&lt;h5&gt;SSL&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;We offer 4 kinds of SSL: Dedicated (IP), Wildcard, Shared and SNI.&lt;/li&gt;
+							&lt;li&gt;Shared and SNI are free of charge.&lt;/li&gt;
+							&lt;li&gt;Shared SSL &lt;b&gt;CAN NOT&lt;/b&gt; have custom CNAMES. Shared SSL urls looks like: https://zone-bwh1337.bwhog.net&lt;/li&gt;
+							&lt;li&gt;Dedicated and SNI SSL can have custom CNAMES e.g.: https://cdn.yourdomain.com&lt;/li&gt;
+							&lt;li&gt;Dedicated is $250/month.&lt;/li&gt;
+							&lt;li&gt;Wildcard SSL is $500/month.&lt;/li&gt;
+
+							&lt;/ul&gt;
+							&lt;h5&gt;Support policy&lt;/h5&gt;
+							&lt;p&gt;We offer chat and email support 24/7/365. Priority support is available via MaxCDN Enterprise.&lt;/p&gt;
+
+							&lt;h5&gt;SLA (Service Level Agreement)&lt;/h5&gt;
+							&lt;p&gt;We offer the same SLA as all MaxCDN customers. You can read the SLA policy &lt;a href=&#34;https://www.maxcdn.com/legal/#sla&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+							&lt;h5&gt;Adult content&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;You may distribute adult content as long as it is legal and you own the copyrights.&lt;/li&gt;
+							&lt;li&gt;Any illegal content, DMCA complaints or Malware distribution will result in immediate account suspension.&lt;/li&gt;
+							&lt;/ul&gt;
+							&lt;h5&gt;API&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;Bandwidth Hog &lt;b&gt;DOES NOT&lt;/b&gt; offer an API at this time.&lt;/li&gt;
+							&lt;li&gt;If you need an API please email &lt;a href=&#34;mailto:sales@maxcdn.com&#34;&gt;sales@maxcdn.com&lt;/a&gt;.&lt;/li&gt;
+							&lt;/ul&gt;
+						&lt;/div&gt;
+						&lt;div class=&#34;faq-column&#34;&gt;
+							&lt;h5&gt;Datacenters&lt;/h5&gt;
+							&lt;p&gt;We offer &lt;b&gt;6 datacenters&lt;/b&gt; (also known as POPs) in total.&lt;/p&gt;
+							&lt;ul&gt;
+								&lt;li&gt;3 datacenters in the US&lt;/li&gt;
+								&lt;li&gt;3 datacenters in Europe&lt;/li&gt;
+								&lt;li&gt;In case you need more coverage go to &lt;a href=&#34;https://www.maxcdn.com/?ref=bwhog&#34; target=&#34;_blank&#34;&gt;www.maxcdn.com&lt;/a&gt;.&lt;/li&gt;
+
+							&lt;h5&gt;Access Logs&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;We offer access logs as an add-on called Raw Logs to S3.&lt;/li&gt;
+							&lt;li&gt;The add-on is an extra monthly charge of $100.&lt;/li&gt;
+							&lt;li&gt;Requires an Amazon S3 bucket.&lt;/li&gt;
+							&lt;/ul&gt;
+							&lt;h5&gt;Mid-tier cache&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;We offer a mid-tier caching solution as an add-on called Origin Shield.&lt;/li&gt;
+							&lt;li&gt;The add-on is an extra monthly charge of $200.&lt;/li&gt;
+							&lt;/ul&gt;
+							&lt;h5&gt;Secure Tokens&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;The add-on is an extra monthly charge of $150.&lt;/li&gt;
+							&lt;li&gt;Can be enabled in the Control Panel.&lt;/li&gt;
+							&lt;li&gt;We have multiple code examples (PHP, Node.js, Python,Ruby, .NET) for creating compatible tokens.&lt;/li&gt;
+							&lt;/ul&gt;
+							&lt;h5&gt;Bandwidth Hog vs. MaxCDN&lt;/h5&gt;
+							&lt;p&gt;The differences between the two service offerings are the following. With Bandwidth Hog you get 11 less locations, there is no VIP Priority Support, storage, custom solutions (including billing terms), trials, custom HTTP rules, engineer access or full site caching. If you require those options please feel free to email &lt;a href=&#34;mailto:sales@maxcdn.com&#34;&gt;sales@maxcdn.com&lt;/a&gt;.&lt;/p&gt;
+
+							&lt;br /&gt;&lt;br /&gt;&lt;h4&gt;Billing&lt;/h4&gt;
+							&lt;h5&gt;Trial account&lt;/h5&gt;
+							&lt;p&gt;We do not offer trial accounts for this service.&lt;/p&gt;
+
+							&lt;h5&gt;Payment methods&lt;/h5&gt;
+							&lt;p&gt;We accept Visa, MasterCard, American Express, Discover, and PayPal.&lt;/p&gt;
+
+							&lt;h5&gt;Billing Process&lt;/h5&gt;
+							&lt;ul&gt;
+							&lt;li&gt;To be on the Bandwidth Hog service you must pay a $249/month platform fee.&lt;/li&gt;
+							&lt;li&gt;This provides you access to Bandwidth Hog and you can use our 1¢/gb pay as you go pricing.&lt;/li&gt;
+							&lt;li&gt;The is no platform fee if you signed up before October 1, 2015 or if you pick one of the bigger plans. You can also choose a bandwidth package which includes a set amount of bandwidth (e.g. 100TB) for a fixed price. After you pass the set amount you will be charge per gigabyte.&lt;/li&gt;
+							&lt;li&gt;ALL overages are billed in $500 increments. For example if you have $1,000 of overages for a certain month, you will have two invoices and two credit card charges.&lt;/li&gt;
+							&lt;/ul&gt;
+							&lt;h5&gt;Contracts&lt;/h5&gt;
+							&lt;p&gt;We do not offer contracts. If you would like a contract email &lt;a href=&#34;mailto:sales@maxcdn.com&#34;&gt;sales@maxcdn.com&lt;/a&gt;.&lt;/p&gt;
+
+							&lt;h5&gt;Coupon codes&lt;/h5&gt;
+							&lt;p&gt;We &lt;b&gt;DO NOT&lt;/b&gt; offer or accept coupons.&lt;/p&gt;
+
+							&lt;h5&gt;Refunds&lt;/h5&gt;
+							&lt;p&gt;We &lt;b&gt;DO NOT&lt;/b&gt; offer refunds of any kind.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;style5&#34;&gt;
+					&lt;div class=&#34;area&#34;&gt;
+						&lt;div class=&#34;nofee pricing-footer-cta&#34;&gt;
+							&lt;div class=&#34;nofee-text&#34;&gt;
+								&lt;h1&gt;Say hello to Bandwidth Hog&lt;br /&gt;&lt;span&gt;Great pricing, no commitments.&lt;/span&gt;&lt;/h1&gt;
+							&lt;/div&gt;
+							&lt;div class=&#34;buttons&#34;&gt;
+								&lt;p&gt;&lt;a href=&#34;#&#34; id=&#34;go-top-link&#34; class=&#34;button orange top-button&#34; style=&#34;width: 160px;&#34;&gt;Sign Up Now&lt;/a&gt;&lt;a href=&#34;https://twitter.com/intent/tweet?text=Check+out+%40bandwidth_hog+by+%40MaxCDN+for+1%C2%A2%2Fgb+%23CDN+pricing+-+https%3A%2F%2Fwww.bandwidthhog.com%2Fpricing%2F%3Futm_source%3DTwitter%26utm_medium%3Dtweet%26utm_campaign%3Dshare-this-deal-bottom&#34; class=&#34;button grey bottom-button&#34; style=&#34;padding: 15px 23px;&#34; target=&#34;_blank&#34;&gt;Share The Love&lt;/a&gt;&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/main&gt;
+
+			&lt;div id=&#34;form-popup-24980&#34; class=&#34;white-popup mfp-hide&#34;&gt;
+				&lt;p class=&#34;popup-title&#34;&gt;That&#39;s a lot of Bandwidth&lt;/p&gt;
+				&lt;p class=&#34;popup-subtitle-small&#34;&gt;Let&#39;s Talk and Get You Set Up.&lt;/p&gt;
+				&lt;div class=&#34;form&#34;&gt;
+					&lt;script&gt;
+						var addHoneypot24980 = function() {
+    						$(&#39;#form-popup-24980 form&#39;).find(&#34;input[name=&#39;content__c&#39;]&#34;).val(&#39;TjMWJFGCrZsrgkTiumWainoraTaYandAd8bapL8Xdks&#39;);
+						}
+					&lt;/script&gt;
+					&lt;script charset=&#34;utf-8&#34; type=&#34;text/javascript&#34; src=&#34;//js.hsforms.net/forms/v2.js&#34;&gt;&lt;/script&gt;
+					&lt;script&gt;
+  				  	  	  hbspt.forms.create({
+    						css: &#39;&#39;,
+    						portalId: &#39;394224&#39;,
+    						formId: &#39;c3da699c-25f9-4fbe-9cf5-1a332824f2fb&#39;,
+    						onFormSubmit: addHoneypot24980
+  				  	  	  });
+					&lt;/script&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;footer id=&#34;footer&#34;&gt;
+				&lt;div class=&#34;area&#34;&gt;
+					&lt;div&gt;
+						&lt;p&gt;Made by &lt;a href=&#34;https://www.maxcdn.com/?ref=bwhog&#34;&gt;MaxCDN&lt;/a&gt; in Los Angeles&lt;/p&gt;
+					&lt;/div&gt;
+					&lt;ul&gt;
+						&lt;li&gt;&lt;a href=&#34;https://www.maxcdn.com/team/&#34; target=&#34;_blank&#34;&gt;About us&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&#34;https://www.maxcdn.com/legal/&#34; target=&#34;_blank&#34;&gt;Privacy &amp;amp; Terms&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+					&lt;ul&gt;
+						&lt;li&gt;&lt;a href=&#34;https://twitter.com/bandwidth_hog&#34;&gt;@bandwidth_hog &lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&#34;mailto:&amp;#111;&amp;#105;&amp;#110;&amp;#107;&amp;#64;&amp;#109;&amp;#97;&amp;#120;&amp;#99;&amp;#100;&amp;#110;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&#34;&gt;&amp;#111;&amp;#105;&amp;#110;&amp;#107;&amp;#64;&amp;#109;&amp;#97;&amp;#120;&amp;#99;&amp;#100;&amp;#110;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;a href=&#34;mailto:&amp;#115;&amp;#117;&amp;#112;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#064;&amp;#109;&amp;#097;&amp;#120;&amp;#099;&amp;#100;&amp;#110;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&#34;&gt;&amp;#115;&amp;#117;&amp;#112;&amp;#112;&amp;#111;&amp;#114;&amp;#116;&amp;#064;&amp;#109;&amp;#097;&amp;#120;&amp;#099;&amp;#100;&amp;#110;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/li&gt;
+					&lt;/ul&gt;
+				&lt;/div&gt;
+			&lt;/footer&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;!-- Start of Async HubSpot Analytics Code --&gt;
+  &lt;script type=&#34;text/javascript&#34;&gt;
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src=&#39;//js.hs-analytics.net/analytics/&#39;+(Math.ceil(new Date()/r)*r)+&#39;/394224.js&#39;;
+      e.parentNode.insertBefore(n, e);
+    })(document,&#34;script&#34;,&#34;hs-analytics&#34;,300000);
+  &lt;/script&gt;
+&lt;!-- End of Async HubSpot Analytics Code --&gt;
+	&lt;!-- Hotjar Tracking Code for www.bandwidthhog.com --&gt;
+&lt;script&gt;
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:77190,hjsv:5};
+        a=o.getElementsByTagName(&#39;head&#39;)[0];
+        r=o.createElement(&#39;script&#39;);r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,&#39;//static.hotjar.com/c/hotjar-&#39;,&#39;.js?sv=&#39;);
+&lt;/script&gt;
+	&lt;script&gt;
+  	  (function(i,s,o,g,r,a,m){i[&#39;GoogleAnalyticsObject&#39;]=r;i[r]=i[r]||function(){
+  	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  	  })(window,document,&#39;script&#39;,&#39;//www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;);
+
+  	  ga(&#39;create&#39;, &#39;UA-64960747-1&#39;, &#39;auto&#39;);
+  	  ga(&#39;send&#39;, &#39;pageview&#39;);
+
+	&lt;/script&gt;
+	&lt;script type=&#34;text/javascript&#34;&gt;
+    adroll_adv_id = &#34;YG2XODOP7JF4XFKIJHODC5&#34;;
+    adroll_pix_id = &#34;7HQEKVS2VFEENJXY4G2AOB&#34;;
+    (function () {
+        var _onload = function(){
+            if (document.readyState &amp;&amp; !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement(&#34;script&#34;);
+            var host = ((&#34;https:&#34; == document.location.protocol) ? &#34;https://s.adroll.com&#34; : &#34;http://a.adroll.com&#34;);
+            scr.setAttribute(&#39;async&#39;, &#39;true&#39;);
+            scr.type = &#34;text/javascript&#34;;
+            scr.src = host + &#34;/j/roundtrip.js&#34;;
+            ((document.getElementsByTagName(&#39;head&#39;) || [null])[0] ||
+                document.getElementsByTagName(&#39;script&#39;)[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener(&#39;load&#39;, _onload, false);}
+        else {window.attachEvent(&#39;onload&#39;, _onload)}
+    }());
+	&lt;/script&gt;
+	&lt;script src=&#34;https://code.jquery.com/jquery-1.11.3.min.js&#34;&gt;&lt;/script&gt;
+	&lt;script type=&#34;text/javascript&#34; src=&#34;../js/jquery.main.js&#34;&gt;&lt;/script&gt;
+	&lt;script src=&#34;https://cdn.jsdelivr.net/colorbox/1.6.3/jquery.colorbox-min.js&#34;&gt;&lt;/script&gt;
+	&lt;script&gt;
+		$(function(){
+				$(&#34;.iframe&#34;).colorbox({iframe:true, width:&#34;80%&#34;, height:&#34;80%&#34;});
+		});
+		&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
