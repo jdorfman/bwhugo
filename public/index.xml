@@ -247,7 +247,7 @@
 				&lt;/div&gt;
 			&lt;/div&gt;
 			{{ partial &#34;footer.html&#34; . }}
-	&lt;script src=&#34;https://cdn.jsdelivr.net/colorbox/1.6.3/jquery.colorbox-min.js&#34;&gt;&lt;/script&gt;
+	&lt;script src=&#34;https://cdn.jsdelivr.net/colorbox/1.6.3/jquery.colorbox-min.js&#34; integrity=&#34;sha384-EWZKNHU6VLvIFdFN4Z9bVdx7foiHj5nKkMzJL443RH1QN7y/xUpBwIqcUohxI/1C&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
 	&lt;script&gt;
 		$(function(){
 				$(&#34;.iframe&#34;).colorbox({iframe:true, width:&#34;80%&#34;, height:&#34;80%&#34;});
