@@ -23,5 +23,5 @@ git subtree push --prefix=public git@github.com:jdorfman/bwhugo.git gh-pages
 
 # Purge CDN
 echo $(color green) "Purging CDN Cache" $(color end)
-python /Users/jdorfman/bh-stag_purge_script.py
+python /Users/jdorfman/bh_purge_script.py
 echo $(color green) "Done" $(color end) $(emoji check)
