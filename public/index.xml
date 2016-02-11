@@ -258,5 +258,116 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://www.bandwidthhog.com/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bandwidthhog.com/thank-you/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+	&lt;meta charset=&#34;utf-8&#34;&gt;
+	&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+	&lt;title&gt;Content Delivery for High Bandwidth Services | Bandwidth Hog&lt;/title&gt;
+	{{ partial &#34;header.html&#34; . }}
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;div id=&#34;pricing&#34;&gt;
+		&lt;div id=&#34;wrapper&#34;&gt;
+			&lt;header id=&#34;header&#34;&gt;
+				&lt;div class=&#34;area&#34;&gt;
+					&lt;div class=&#34;logo&#34;&gt;&lt;a href=&#34;https://www.bandwidthhog.com/&#34;&gt;&lt;img src=&#34;../images/logo-white.png&#34; alt=&#34;Bandwidth Hog&#34;&gt;&lt;/a&gt;&lt;/div&gt;
+					&lt;div class=&#34;pricing&#34;&gt;&lt;a href=&#34;https://www.bandwidthhog.com/pricing/&#34;&gt;Pricing&lt;/a&gt;
+					&lt;div class=&#34;login&#34;&gt;&lt;a href=&#34;https://cp.bandwidthhog.com/&#34; target=&#34;_blank&#34;&gt;Login&lt;/a&gt;
+					&lt;div class=&#34;by&#34;&gt;Powered by &lt;a href=&#34;https://www.maxcdn.com/?ref=bwhog&#34; target=&#34;_blank&#34;&gt;MaxCDN&lt;/a&gt;&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/header&gt;
+			&lt;main id=&#34;main&#34; role=&#34;main&#34;&gt;
+				&lt;div class=&#34;visual&#34;&gt;
+					&lt;div class=&#34;bg-stretch&#34;&gt;
+						&lt;img src=&#34;../images/header.jpg&#34; alt=&#34;image description&#34;&gt;
+					&lt;/div&gt;
+					&lt;div class=&#34;text-holder&#34;&gt;
+						&lt;div class=&#34;area&#34;&gt;
+							&lt;h1&gt;&lt;span&gt;Thank You&lt;/span&gt;&lt;/h1&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+
+					&lt;div class=&#34;area&#34;&gt;
+					&lt;div class=&#34;section below-table&#34;&gt;
+						&lt;div class=&#34;text-area&#34;&gt;
+							&lt;h2 class=&#34;section-title&#34;&gt;We will be in touch soon.&lt;/h2&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;section style3 pricing-content&#34;&gt;
+					&lt;div class=&#34;area&#34;&gt;
+						&lt;div class=&#34;image paper&#34;&gt;&lt;img src=&#34;../images/paper.png&#34; alt=&#34;image description&#34;&gt;&lt;/div&gt;
+						&lt;div class=&#34;text-area&#34;&gt;
+							&lt;h2 class=&#34;section-title&#34;&gt;No commitments&lt;/h2&gt;
+							&lt;p&gt;To get such unbelievable pricing, you usually have to commit to Petabytes per month and sign a multi year contract. For example this makes it really hard for Game Developers that do not know how their traffic will shape up. Say hello to the HOG! Great prices without commitments.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;section style4 pricing-content&#34;&gt;
+					&lt;div class=&#34;area&#34;&gt;
+						&lt;div class=&#34;image tech&#34;&gt;
+							&lt;img src=&#34;../images/tech.png&#34; alt=&#34;image description&#34;&gt;
+						&lt;/div&gt;
+						&lt;div class=&#34;text-area&#34;&gt;
+							&lt;h2 class=&#34;section-title&#34;&gt;Support by default&lt;/h2&gt;
+							&lt;p&gt;Large, Medium or Small files delivered reliably. We offer chat and email support 24/7/365 that is responsive and highly rated. However, if you need priority support or access to a support engineer, consider a &lt;a href=&#34;https://www.maxcdn.com/?ref=bwhog&#34; style=&#34;text-decoration: underline;&#34; &gt;MaxCDN&lt;/a&gt; solution.&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+				{{ partial &#34;faq.html&#34; . }}
+				&lt;div class=&#34;style5&#34;&gt;
+					&lt;div class=&#34;area&#34;&gt;
+						&lt;div class=&#34;nofee pricing-footer-cta&#34;&gt;
+							&lt;div class=&#34;nofee-text&#34;&gt;
+								&lt;h1&gt;Say hello to Bandwidth Hog&lt;br /&gt;&lt;span&gt;Great pricing, no commitments.&lt;/span&gt;&lt;/h1&gt;
+							&lt;/div&gt;
+							&lt;div class=&#34;buttons&#34;&gt;
+								&lt;p&gt;&lt;a href=&#34;#&#34; id=&#34;go-top-link&#34; class=&#34;button orange top-button&#34; style=&#34;width: 160px;&#34;&gt;Sign Up Now&lt;/a&gt;&lt;a href=&#34;https://twitter.com/intent/tweet?text=Check+out+%40bandwidth_hog+by+%40MaxCDN+for+1%C2%A2%2Fgb+%23CDN+pricing+-+https%3A%2F%2Fwww.bandwidthhog.com%2Fpricing%2F%3Futm_source%3DTwitter%26utm_medium%3Dtweet%26utm_campaign%3Dshare-this-deal-bottom&#34; class=&#34;button grey bottom-button&#34; style=&#34;padding: 15px 23px;&#34; target=&#34;_blank&#34;&gt;Share The Love&lt;/a&gt;&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/main&gt;
+
+			&lt;div id=&#34;form-popup-24980&#34; class=&#34;white-popup mfp-hide&#34;&gt;
+				&lt;p class=&#34;popup-title&#34;&gt;That&#39;s a lot of Bandwidth&lt;/p&gt;
+				&lt;p class=&#34;popup-subtitle-small&#34;&gt;Let&#39;s Talk and Get You Set Up.&lt;/p&gt;
+				&lt;div class=&#34;form&#34;&gt;
+					&lt;script&gt;
+						var addHoneypot24980 = function() {
+    						$(&#39;#form-popup-24980 form&#39;).find(&#34;input[name=&#39;content__c&#39;]&#34;).val(&#39;TjMWJFGCrZsrgkTiumWainoraTaYandAd8bapL8Xdks&#39;);
+						}
+					&lt;/script&gt;
+					&lt;script charset=&#34;utf-8&#34; type=&#34;text/javascript&#34; src=&#34;//js.hsforms.net/forms/v2.js&#34;&gt;&lt;/script&gt;
+					&lt;script&gt;
+  				  	  	  hbspt.forms.create({
+    						css: &#39;&#39;,
+    						portalId: &#39;394224&#39;,
+    						formId: &#39;c3da699c-25f9-4fbe-9cf5-1a332824f2fb&#39;,
+    						onFormSubmit: addHoneypot24980
+  				  	  	  });
+					&lt;/script&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			{{ partial &#34;footer.html&#34; . }}
+	&lt;script src=&#34;https://cdn.jsdelivr.net/colorbox/1.6.3/jquery.colorbox-min.js&#34; integrity=&#34;sha384-EWZKNHU6VLvIFdFN4Z9bVdx7foiHj5nKkMzJL443RH1QN7y/xUpBwIqcUohxI/1C&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+	&lt;script&gt;
+		$(function(){
+				$(&#34;.iframe&#34;).colorbox({iframe:true, width:&#34;80%&#34;, height:&#34;80%&#34;});
+		});
+		&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
